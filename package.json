@@ -2,12 +2,13 @@
   "name": "Alistar-next-js",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "export": "next export",
+  "start": "next start",
+  "lint": "next lint"
+},
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "@hookform/resolvers": "^4.1.2",
