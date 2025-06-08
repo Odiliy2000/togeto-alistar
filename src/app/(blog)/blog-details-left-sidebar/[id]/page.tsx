@@ -2,11 +2,15 @@ import { Metadata } from 'next';
 import { blogData } from '@/data/blog-data';
 import BlogDetailsLeftSidebarMain from '@/views/blog-details/blog-details-left-sidebar';
 
+interface PageProps {
+  params: {
+    id: string;
+  };
+}
+
 export async function generateMetadata({
   params,
-}: {
-  params: { id: string };
-}): Promise<Metadata> {
+}: PageProps): Promise<Metadata> {
   const blog = blogData.find((blog) => String(blog.id) === params.id);
   return {
     title: blog ? `Alistar - ${blog.title}` : 'Alistar - Blog Not Found',
@@ -19,11 +23,7 @@ export async function generateStaticParams() {
   }));
 }
 
-export default function BlogDetailsLeftSidebarPage({
-  params,
-}: {
-  params: { id: string };
-}) {
+export default function BlogDetailsLeftSidebarPage({ params }: PageProps) {
   const blog = blogData.find((blog) => String(blog.id) === params.id);
   return blog ? (
     <BlogDetailsLeftSidebarMain blog={blog} />
