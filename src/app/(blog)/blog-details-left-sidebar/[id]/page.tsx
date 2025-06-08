@@ -17,7 +17,7 @@ export async function generateMetadata({
   };
 }
 
-export async function generateStaticParams() {
+export async function generateStaticParams(): Promise<{ id: string }[]> {
   return blogData.map((blog) => ({
     id: String(blog.id),
   }));
