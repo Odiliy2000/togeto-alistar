@@ -20,7 +20,7 @@ const TopBarArea = () => {
                   <span>
                     <i className="fa-light fa-envelope-open-text"></i>
                     <a href="mailto:mcssainfo@gmail.com">
-                      Alistarincoh@gmail.com
+                      dispatchdep@alistarincoh.com
                     </a>
                   </span>
                 </li>

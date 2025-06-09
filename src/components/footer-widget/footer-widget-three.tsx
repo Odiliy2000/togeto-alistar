@@ -23,8 +23,8 @@ const FooterWidgetThree = () => {
           <span>
             <Mail />
           </span>
-          <a className="border-line-white" href="mailto:Alistarincoh@gmail.com">
-            Alistarincoh@gmail.com
+          <a className="border-line-white" href="mailto:dispatchdep@alistarincoh.com">
+            dispatchdep@alistarincoh.com
           </a>
         </div>
         <div className="it-footer-widget-social">

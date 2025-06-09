@@ -34,9 +34,9 @@ const ContactArea = () => {
                     <span>Write email</span>
                     <a
                       className="border-line-black"
-                      href="mailto:Alistarincoh@gmail.com"
+                      href="mailto:dispatchdep@alistarincoh.com"
                     >
-                      Alistarincoh@gmail.com
+                      dispatchdep@alistarincoh.com
                     </a>
                   </div>
                 </li>

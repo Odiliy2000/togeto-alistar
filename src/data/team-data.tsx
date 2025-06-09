@@ -14,7 +14,7 @@ export const teamDataOne: ITeamDT[] = [
     designation: 'CEO & Founder',
     image: teamImg1,
     phone: '(01) 870 47 5767',
-    email: 'Alistarincoh@gmail.com',
+    email: 'dispatchdep@alistarincoh.com',
     address: 'Hudson, Wisconsin(WI), 54016',
     socials: [
       { platform: <Facebook />, link: 'https://facebook.com' },
@@ -37,7 +37,7 @@ export const teamDataOne: ITeamDT[] = [
     designation: 'Foreman',
     image: teamImg2,
     phone: '(91) 870 47 5767',
-    email: 'Alistarincoh@gmail.com',
+    email: 'dispatchdep@alistarincoh.com',
     address: 'Hudson, Wisconsin(WI), 54016',
     socials: [
       { platform: <Facebook />, link: 'https://facebook.com' },
@@ -60,7 +60,7 @@ export const teamDataOne: ITeamDT[] = [
     designation: 'Manager',
     image: teamImg3,
     phone: '(91) 870 47 5767',
-    email: 'Alistarincoh@gmail.com',
+    email: 'dispatchdep@alistarincoh.com',
     address: 'Hudson, Wisconsin(WI), 54016',
     socials: [
       { platform: <Facebook />, link: 'https://facebook.com' },
@@ -83,7 +83,7 @@ export const teamDataOne: ITeamDT[] = [
     designation: 'Warehouse Supervisor',
     image: teamImg4,
     phone: '(91) 870 47 5767',
-    email: 'Alistarincoh@gmail.com',
+    email: 'dispatchdep@alistarincoh.com',
     address: 'Hudson, Wisconsin(WI), 54016',
     socials: [
       { platform: <Facebook />, link: 'https://facebook.com' },
@@ -106,7 +106,7 @@ export const teamDataOne: ITeamDT[] = [
     designation: 'Inventory Controller',
     image: teamImg5,
     phone: '(91) 870 47 5767',
-    email: 'Alistarincoh@gmail.com',
+    email: 'dispatchdep@alistarincoh.com',
     address: 'Hudson, Wisconsin(WI), 54016',
     socials: [
       { platform: <Facebook />, link: 'https://facebook.com' },
@@ -129,7 +129,7 @@ export const teamDataOne: ITeamDT[] = [
     designation: 'Fleet Coordinator',
     image: teamImg3,
     phone: '(91) 870 47 5767',
-    email: 'Alistarincoh@gmail.com',
+    email: 'dispatchdep@alistarincoh.com',
     address: 'Hudson, Wisconsin(WI), 54016',
     socials: [
       { platform: <Facebook />, link: 'https://facebook.com' },
