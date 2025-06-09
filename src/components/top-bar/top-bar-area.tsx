@@ -12,8 +12,8 @@ const TopBarArea = () => {
                 <li className="d-none d-lg-inline-block">
                   <span>
                     <Phone />
-                    <a href="tel:+911870475767" target="_blank" rel="noopener noreferrer">
-                                   (91) 187 047 5767</a>
+                    <a href="tel:+1800-327-1124" target="_blank" rel="noopener noreferrer">
+                                   800-327-1124</a>
                   </span>
                 </li>
                 <li>
