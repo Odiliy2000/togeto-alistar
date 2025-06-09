@@ -14,7 +14,7 @@ const FooterWidgetFour = () => {
             target="_blank"
             href="https://www.google.com/maps/dir///@24.4503253,17.1644279,4.17z?entry=ttu&g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D"
           >
-            1277 E KEMPER ROAD STE 2 SPRINGDALE, OH   45246
+            KEMPER ROAD STE 2 SPRINGDALE, OH   45246
             United States
           </a>
         </div>
