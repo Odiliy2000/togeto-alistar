@@ -43,6 +43,7 @@ const AboutTwo = () => {
             </div>
           </div>
         </div>
+
         <div className="row align-items-center align-items-xxl-start">
           <div
             className="col-xl-5 order-1 order-xl-0 wow animate__fadeInLeft"
@@ -59,6 +60,7 @@ const AboutTwo = () => {
               />
             </div>
           </div>
+
           <div
             className="col-xl-7 order-0 order-xl-1 wow animate__fadeInRight"
             data-wow-duration=".9s"
@@ -75,30 +77,49 @@ const AboutTwo = () => {
                     ))}
                   </TabList>
                 </div>
+
                 <div className="it-about-2-tab-content-wrap mb-90">
                   <div className="tab-content" id="myTabContent">
-                    {tabNames.map((item) => (
-                      <TabPanel key={item.id}>
-                        <div className="it-about-2-tab-content">
-                          <p>
-                            At Alistar, our mission is to revolutionize logistics
-                            by providing seamless, reliable, and cost-effective
-                            solutions tailored to meet our clients' unique
-                            needs. We aim to foster global connectivity through
-                            innovative technology, sustainable practices, and a
-                            commitment to excellence, ensuring that goods are
-                            delivered efficiently.
-                          </p>
-                          <p>
-                            At Alistar, our mission is to redefine the logistics
-                            industry by delivering efficiency, reliability, and
-                            innovation. We are dedicated to empowering
-                            businesses of all sizes by offering end-to-end
-                            logistics solutions that streamline.
-                          </p>
-                        </div>
-                      </TabPanel>
-                    ))}
+                    <TabPanel>
+                      <div className="it-about-2-tab-content">
+                        <p>
+                          At Alistar, our mission is to revolutionize logistics by providing seamless,
+                          reliable, and cost-effective solutions tailored to meet our clients' unique needs.
+                          We aim to foster global connectivity through innovative technology, sustainable
+                          practices, and a commitment to excellence, ensuring that goods are delivered efficiently.
+                        </p>
+                        <p>
+                          We are dedicated to empowering businesses of all sizes by offering end-to-end logistics
+                          solutions that streamline and optimize supply chain operations.
+                        </p>
+                      </div>
+                    </TabPanel>
+
+                    <TabPanel>
+                      <div className="it-about-2-tab-content">
+                        <p>
+                          Our vision at Alistar is to be the leading force in transforming the logistics
+                          industry through innovation, transparency, and sustainability. We envision a world
+                          where supply chains are intelligent, responsive, and eco-conscious—driving growth
+                          and value for our partners and the communities we serve.
+                        </p>
+                      </div>
+                    </TabPanel>
+
+                    <TabPanel>
+                      <div className="it-about-2-tab-content">
+                        <p>
+                          Founded in 2017, Alistar began as a regional freight company and quickly grew into
+                          a nationwide logistics provider. Over the years, we’ve built a reputation for
+                          reliability, safety, and cutting-edge solutions that meet the challenges of a
+                          modern supply chain.
+                        </p>
+                        <p>
+                          Today, we continue to evolve with a deep focus on people, technology, and performance.
+                          Our history reflects our passion for logistics and our promise to deliver with excellence.
+                        </p>
+                      </div>
+                    </TabPanel>
                   </div>
                 </div>
               </Tabs>
@@ -111,4 +132,5 @@ const AboutTwo = () => {
     </div>
   );
 };
+
 export default AboutTwo;

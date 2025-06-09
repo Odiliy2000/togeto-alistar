@@ -17,11 +17,11 @@ const LeftSidebar = () => {
           </li>
           <li>
             <span>Date</span>
-            <a href="#">24/10/20024</a>
+            <a href="#">06/09/2025</a>
           </li>
           <li>
             <span>Website</span>
-            <a href="mailto:Alistar.com">Alistar.com</a>
+            <a href="mailto:dispatchdep@alistarincoh.com">dispatchdep@alistarincoh.com</a>
           </li>
           <li>
             <span>Location</span>
