@@ -37,7 +37,7 @@ const DetailsSidebar = () => {
         </h4>
         <span>Call Anytime</span>
         <a className="it-btn-orange hover-2 w-100" href="tel:+911234568970">
-          <span>+(91)1234 568 970</span>
+          <span>+1800-327-1124</span>
         </a>
       </div>
       <div className="sidebar-widget">
