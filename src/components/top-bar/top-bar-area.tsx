@@ -41,11 +41,11 @@ const TopBarArea = () => {
           <div className="col-xl-4 col-lg-5 col-md-6 col-sm-6 d-none d-sm-block">
             <div className="it-header-top-right d-flex align-items-center justify-content-end">
               <div className="it-header-top-contact d-none d-md-block mr-30">
-                <a href="#">Help</a>
+                <a href="tel:800-327-1124">Help</a>
                 <span>/</span>
-                <a href="#">support</a>
+                <a href="tel:800-327-1124">support</a>
                 <span>/</span>
-                <a href="#">contact</a>
+                <a href="tel:800-327-1124">contact</a>
               </div>
               <div className="it-header-top-social-box">
                 <SocialBox />
