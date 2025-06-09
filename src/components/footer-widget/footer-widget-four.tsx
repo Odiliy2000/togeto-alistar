@@ -30,8 +30,8 @@ const FooterWidgetFour = () => {
           <span>
             <PhoneTwo />
           </span>
-          <a className="border-line-white" href="tel:912-345-987">
-            912-345-987
+          <a className="border-line-white" href="tel:800-327-1124">
+            800-327-1124
           </a>
         </div>
       </div>
