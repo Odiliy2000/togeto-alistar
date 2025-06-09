@@ -13,7 +13,7 @@ import { Dribble, Facebook, Instagram, X } from '@/components/svg';
 const socialData = [
   { id: 1, url: '#', platform: <Facebook /> },
   { id: 2, url: '#', platform: <X /> },
-  { id: 3, url: 'https://t.me/HARRY_SM1TH', platform: <Telegram /> },
+  { id: 3, url: '#', platform: <Dribble /> },
   { id: 4, url: 'https://www.instagram.com/ali.star.inc/', platform: <Instagram /> },
 ];
 
