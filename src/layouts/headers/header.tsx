@@ -99,7 +99,7 @@ const Header = ({
                       href="/contact"
                       className="it-btn-orange d-none d-md-block"
                     >
-                      <span>Get Contact Now</span>
+                      <span>Apply Now</span>
                     </Link>
                     <div className="it-header-bar d-xl-none">
                       <button

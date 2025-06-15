@@ -42,7 +42,7 @@ const HeroSection = () => {
                     data-delay=".5"
                   >
                     <Link className="it-btn-black mr-30 mb-20" href="/contact">
-                      <span>Get Contact Now</span>
+                      <span>Apply Now</span>
                     </Link>
                   </div>
                   <div

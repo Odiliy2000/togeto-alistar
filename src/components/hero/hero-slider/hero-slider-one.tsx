@@ -15,7 +15,7 @@ const sliderData = [
     description: `Efficient logistics enhances global shipping by reducing <br>
                     delays and optimizing supply chain management.`,
     btnUrl: '/contact',
-    btnText: 'Get Contact Now',
+    btnText: 'Apply Now',
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ const sliderData = [
     description: `Efficient logistics enhances global shipping by reducing <br>
                     delays and optimizing supply chain management.`,
     btnUrl: '/contact',
-    btnText: 'Get Contact Now',
+    btnText: 'Apply Now',
   },
   {
     id: 3,
@@ -35,7 +35,7 @@ const sliderData = [
     description: `Efficient logistics enhances global shipping by reducing <br>
                     delays and optimizing supply chain management.`,
     btnUrl: '/contact',
-    btnText: 'Get Contact Now',
+    btnText: 'Apply Now',
   },
 ];
 

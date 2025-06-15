@@ -36,7 +36,7 @@ const HeroBannerThree = () => {
                 data-delay=".5"
               >
                 <Link className="it-btn-black" href="/contact">
-                  <span>Get Contact Now</span>
+                  <span>Apply Now</span>
                 </Link>
               </div>
             </div>
