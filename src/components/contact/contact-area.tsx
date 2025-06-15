@@ -49,9 +49,9 @@ const ContactArea = () => {
                     <a
                       className="border-line-black"
                       target="_blank"
-                      href="https://www.google.com/maps/@-5.4432737,-73.6358025,8.83z?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D"
+                      href="https://www.google.com/maps/place/1277+E+Kemper+Rd+%232,+Springdale,+OH+45246,+USA/@39.2861898,-84.4522196,880m/data=!3m2!1e3!4b1!4m5!3m4!1s0x88404e10bb45ddd7:0x5764d66cedae668a!8m2!3d39.2861857!4d-84.4496447?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D"
                     >
-                      66 broklyn golden street. New York
+                      1277 E Kemper Rd #2, Springdale, OH 45246, USA
                     </a>
                   </div>
                 </li>
