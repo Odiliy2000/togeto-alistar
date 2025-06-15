@@ -68,9 +68,8 @@ export const serviceDataTwo: IServiceDT[] = [
   {
     id: 5,
     icon: <ServiceIconOne />,
-    title: 'Global Shipping',
-    description: `Alistar specializes in international shipping, offering fast,
-                secure, and cost-effective solutions to connect`,
+    title: '🚛 Nationwide Truckload',
+    description: `Alistar specializes in full truckload (FTL) and less-than-truckload (LTL) freight using modern Freightliner Cascadia trucks. We deliver safely, on time, and across the U.S.`,
     detailsImage: serviceDetailsImg,
     btnText: 'More About Us',
   },
