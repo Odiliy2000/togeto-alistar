@@ -14,7 +14,7 @@ const textSliderData = [
   { id: 2, icon: iconImg, text: 'Reliable Freight Solutions' },
   { id: 3, icon: iconImg, text: 'Smart Logistics Hub' },
   { id: 4, icon: iconImg, text: 'Global Shipping Experts' },
-  { id: 5, icon: iconImg, text: 'Reliable Freight Solutions' },
+  { id: 5, icon: iconImg, text: 'Alistar carrier compny' },
 ];
 
 const TextSliderOne = ({ itemClass }: TextSliderProps) => {
