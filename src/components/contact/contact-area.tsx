@@ -22,7 +22,7 @@ const ContactArea = () => {
                   <div>
                     <span>Have any question?</span>
                     <a className="border-line-black" href="tel:008757845682">
-                      (00) 875 784 5682
+                       875 784 5682
                     </a>
                   </div>
                 </li>
